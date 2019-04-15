@@ -1,12 +1,13 @@
 Arduino Keyboard Penbeat Robot
+
 Assembling a robot with Arduino that can play my midterm project, keyboard penbeat, by itself. 
 
 Summary
-A paragraph or two describing what you are building for your final project.
 
-Include a discussion of how it will be interactive or responsive to the environment.
+This robot has six paws, each paw is responsible for one of the numbers 1-6 on keyboard. Also, through programming, I can pre-enter the scores of my mid-term project keyboard penbeat so that the robot can play the songs by itself.
 
 Component Parts
+
 Describe the components, or pieces, that make up your project.
 
 Include what types of inputs/outputs/data it will use. You can also upload an image with a diagram showing how all those pieces are connected.
