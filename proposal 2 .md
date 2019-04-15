@@ -1,15 +1,11 @@
-Your Project Title Here
-One-sentence summary of your project goes here; then fill out each of the following sections.
+Mini Homepod
+Use Arduino to do a voice interaction to achieve a primary voice interaction function like Apple Homepod.
 
 Summary
-A paragraph or two describing what you are building for your final project.
-
-Include a discussion of how it will be interactive or responsive to the environment.
+Change the color of the light with a voice such as "Hei siri" "Change color".
 
 Component Parts
-Describe the components, or pieces, that make up your project.
-
-Include what types of inputs/outputs/data it will use. You can also upload an image with a diagram showing how all those pieces are connected.
+Microphone, LED strip, speech recognition component.
 
 When your project is completed, you will then add the following sections:
 Timeline
