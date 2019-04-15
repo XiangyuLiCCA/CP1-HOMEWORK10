@@ -1,5 +1,5 @@
-Your Project Title Here
-One-sentence summary of your project goes here; then fill out each of the following sections.
+Arduino Keyboard Penbeat Robot
+Assembling a robot with Arduino that can play my midterm project, keyboard penbeat, by itself. 
 
 Summary
 A paragraph or two describing what you are building for your final project.
