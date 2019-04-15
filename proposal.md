@@ -8,9 +8,7 @@ This robot has six paws, each paw is responsible for one of the numbers 1-6 on k
 
 Component Parts
 
-Describe the components, or pieces, that make up your project.
-
-Include what types of inputs/outputs/data it will use. You can also upload an image with a diagram showing how all those pieces are connected.
+a few wooden sticks, a device component that keeps the robot balanced, several drive motors.
 
 When your project is completed, you will then add the following sections:
 Timeline
